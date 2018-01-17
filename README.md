@@ -2,7 +2,7 @@
 
 This work is based on <Merriam-Webster's Collegiate Dictionary>.
 All contents here are presented in the form of JSON.
-More than 220,000 words collected here.
+More than 220,000 words are collected here.
 
 # Usage
 
